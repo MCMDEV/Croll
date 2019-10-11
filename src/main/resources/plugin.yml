@@ -1,0 +1,10 @@
+name: Troll
+version: ${project.version}
+main: de.mcmdev.troll.TrollPlugin
+api-version: 1.13
+authors: [MCMDEV]
+description: Troll Plugin
+
+commands:
+  troll:
+    description: Troll Command
